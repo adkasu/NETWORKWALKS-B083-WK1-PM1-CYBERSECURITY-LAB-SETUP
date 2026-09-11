@@ -123,7 +123,7 @@ Network Mode:
 
 ### VM Configuration Screenshot
 
-![VirtualBox VM Configuration](screenshots/01-virtualbox-vm-configuration.png)
+![Screenshot](Virtualbox setup.jpg)
 
 ---
 
