@@ -123,7 +123,7 @@ Network Mode:
 
 ### VM Configuration Screenshot
 
-![Screenshot](Virtualbox setup.jpg)
+![image alt](https://github.com/adkasu/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/Virtualbox%20setup.jpg?raw=true)
 
 ---
 
