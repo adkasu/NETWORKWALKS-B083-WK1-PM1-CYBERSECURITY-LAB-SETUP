@@ -215,7 +215,7 @@ The tests were used to determine whether:
 
 ### Connectivity Test
 
-![Network Connectivity Test](screenshots/05-network-connectivity-test.png)
+![Network Connectivity Test](https://github.com/adkasu/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/2914900196c406020d1ae025b4e97adf936f0b06/VirtualBox_kali-linux-Network%20Connectivity.png)
 
 ---
 
