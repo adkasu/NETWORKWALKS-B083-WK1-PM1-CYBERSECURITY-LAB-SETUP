@@ -159,7 +159,7 @@ The virtualization check should identify VirtualBox as the virtualization enviro
 
 ### System Information Screenshot
 
-![image alt](screenshots/03-kali-system-information.png)
+![image alt](https://github.com/adkasu/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/f99cb880681512fb828cf5151bd3d1a2182b6420/VirtualBox_kali-linux-systeminfo.png))
 
 ---
 
