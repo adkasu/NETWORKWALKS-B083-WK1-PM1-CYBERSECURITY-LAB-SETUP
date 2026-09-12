@@ -187,7 +187,7 @@ These commands were used to identify:
 
 ### Network Configuration Screenshot
 
-(https://github.com/adkasu/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/bb41c8d57d52327cd4265a132dac660543d87bc2/VirtualBox_kali-linux-systeminfo.png)
+![image alt](https://github.com/adkasu/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/9a15ae39edfc121080e5b1bca0e3f8a13e8e0505/VirtualBox_kali-Network%20status.png)
 
 ---
 
