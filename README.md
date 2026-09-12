@@ -159,7 +159,7 @@ The virtualization check should identify VirtualBox as the virtualization enviro
 
 ### System Information Screenshot
 
-![image alt](https://github.com/adkasu/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/f99cb880681512fb828cf5151bd3d1a2182b6420/VirtualBox_kali-linux-systeminfo.png))
+![image alt](https://github.com/adkasu/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/f99cb880681512fb828cf5151bd3d1a2182b6420/VirtualBox_kali-linux-systeminfo.png)
 
 ---
 
@@ -186,6 +186,8 @@ These commands were used to identify:
 * Routing information
 
 ### Network Configuration Screenshot
+
+![image alt](https://github.com/adkasu/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/e99ab6d4de89683209dc11f4beaae8aa7b5ae0e0/VirtualBox_kali-network%20conf.png)
 
 ![image alt](https://github.com/adkasu/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/9a15ae39edfc121080e5b1bca0e3f8a13e8e0505/VirtualBox_kali-Network%20status.png)
 
@@ -232,10 +234,6 @@ Available packages were then upgraded using:
 ```bash
 sudo apt upgrade
 ```
-
-### System Update Screenshot
-
-![Kali System Update](screenshots/07-kali-system-update.png)
 
 ---
 
