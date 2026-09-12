@@ -159,7 +159,7 @@ The virtualization check should identify VirtualBox as the virtualization enviro
 
 ### System Information Screenshot
 
-![Kali System Information](screenshots/03-kali-system-information.png)
+![image alt](screenshots/03-kali-system-information.png)
 
 ---
 
@@ -187,7 +187,7 @@ These commands were used to identify:
 
 ### Network Configuration Screenshot
 
-![Kali Network Configuration](screenshots/04-kali-network-configuration.png)
+(https://github.com/adkasu/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/bb41c8d57d52327cd4265a132dac660543d87bc2/VirtualBox_kali-linux-systeminfo.png)
 
 ---
 
