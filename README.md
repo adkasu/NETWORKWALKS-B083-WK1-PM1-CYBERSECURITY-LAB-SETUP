@@ -245,7 +245,7 @@ sudo apt upgrade
 
 ### Virtualization Verification
 
-![Virtualization Verification](screenshots/06-virtualization-verification.png)
+![Virtualization Verification](https://github.com/adkasu/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/653e1e59b794101a11b593028d92979999056843/Kali%20config.jpg)
 
 ---
 
@@ -255,7 +255,7 @@ Issues encountered during the laboratory setup will be documented in:
 
 `documentation/troubleshooting.md`
 
-Potential areas include:
+Potential areas may include:
 
 * Virtual machine boot issues
 * Network connectivity problems
@@ -280,7 +280,7 @@ This project provided practical experience with:
 * Cybersecurity laboratory preparation
 * Technical documentation
 
-Detailed lessons learned are documented in:
+Detailed lessons learned will be documented in:
 
 `notes/lessons-learned.md`
 
@@ -365,4 +365,3 @@ This repository documents my practical learning journey in network engineering, 
 
 **Status:** Completed
 
-**Next Project:** Kali Linux Network Scanning Lab
