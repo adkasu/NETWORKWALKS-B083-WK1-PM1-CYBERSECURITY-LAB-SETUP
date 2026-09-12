@@ -241,7 +241,7 @@ sudo apt upgrade
 
 ### Kali Linux Desktop
 
-![Kali Linux Desktop](screenshots/02-kali-desktop.png)
+![Kali Linux Desktop](https://github.com/adkasu/NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/30c0219cb4723ea485c41038f883df17e6a41e0f/VirtualBox_kali-home.png)
 
 ### Virtualization Verification
 
