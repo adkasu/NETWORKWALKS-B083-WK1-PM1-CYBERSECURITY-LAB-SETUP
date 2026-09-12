@@ -100,25 +100,25 @@ The following VM parameters were configured:
 
 ```text
 VM Name:
-[Enter VM name]
+[VirtualBox 7.2.16 r174877]
 
 Operating System:
 Kali Linux
 
 CPU:
-[Enter CPU allocation]
+[1 Core]
 
 Memory:
-[Enter RAM allocation]
+[2048MB]
 
 Storage:
-[Enter disk allocation]
+[20GB]
 
 Network Adapter:
-[Enter adapter]
+[NAT]
 
 Network Mode:
-[Enter NAT / Bridged / Host-Only]
+[NAT NETWORK]
 ```
 
 ### VM Configuration Screenshot
